@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+  <head>
+  <link rel="alternate" hreflang="x-default" href="http://livinum.hu/" />
+  <link rel="alternate" hreflang="hu" href="http://livinum.hu/" />
+  <link rel="alternate" hreflang="hu-hu" href="http://livinum.hu/" />
+  <link rel="alternate" hreflang="en-gb" href="http://livinum.hu/en/index.php" />
+  <meta name="keywords" content="bor, történelem, jó bor, ital, nagykovácsi, Livinum borpatika, hagyományörző, borkultúra, borszerető, borszentély, livinum, Borpatika, élelem, folyékony kenyér, vendéglő, szórakozás, pihenés, védőital, magyar, életadó, megtartó tiszta nedű">
+<meta property="og:url" content="http://livinum.hu/" />
+<meta property="og:type"               content="Tiszta szívvel, örömmel, szeretettel várunk 'borszentélyünkbe' minden borszerető, jó embert. A Livinum borpatika csapata!" />
+<meta property="og:title"              content="Livinum Borpatika Nagykovácsi" />
+<meta property="og:description"        content="Tiszta szívvel, örömmel, szeretettel várunk 'borszentélyünkbe' minden borszerető, jó embert. A Livinum borpatika csapata!" />
+<meta property="og:image"              content="http://livinum.hu/img/logo.png" />
+	  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    <meta name="description" content="">
+    <meta name="author" content="Feryx - feryx.hu">
+
+    <title>Livinum Borpatika</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/half-slider.css" rel="stylesheet">
+    <link href="css/css.css" rel="stylesheet">
+	  
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
+      <link rel="stylesheet" href="css/grid-gallery.css">
+	  
+<link rel="icon" type="image/png" href="img/ico.png" />
+	  					<link rel="stylesheet" type="text/css" href="resources/UberGallery.css" />
+<link rel="stylesheet" type="text/css" href="resources/colorbox/1/colorbox.css" />
+					<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+					<script type="text/javascript" src="resources/colorbox/jquery.colorbox.js"></script>
+					<script type="text/javascript">
+$(document).ready(function(){
+    $("a[rel='colorbox']").colorbox({maxWidth: "90%", maxHeight: "90%", opacity: ".5"});
+});
+</script>
+  </head>
+
+  <body id="start">
+
+    <!-- Navigation -->
+	 
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top szelessegNav" >
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#start"><img class="logoo" src="img/logo.png" alt="Livinum"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse feljebb" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item ">
+              <a class="nav-link js-scroll-trigger ez" href="#rolunk">Rólunk
+              </a>
+            </li><!--
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger ez" href="#itallap">Itallap</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger ez" href="#etlap">Étlap</a>
+            </li>-->
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger ez" href="#galeria">Galéria</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger ez" href="#kapcsolat">Kapcsolat</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header>
+		<span class="fejleckep"></span>
+      <div id="carouselExampleIndicators" class="carousel carousel-fade slide minusz" data-ride="carousel">
+<!--        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>-->
+		  
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item SlideBG_1 active">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item SlideBG_2">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item SlideBG_3" >
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item SlideBG_4">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide One - Set the background image for this slide in the line below -->
+        <!--  <div class="carousel-item SlideBG_5">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>-->
+        </div>
+<!--        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>-->
+      </div>
+    </header>
+	  <div  class="arnyek"></div>
+<div class="fejleckep">
+	<!--<div class="centerFejlec">asd</div>-->
+	<ul id="slides">
+	<li class="slidem showing"><h3 class="idezet"><img class="idizi" alt="''" src="img/idizijel.png">A víz az őselem. Először: a víz borrá változik; a bor vérré változik. <br>
+A víz az anyag, a bor a lélek, a vér a szellem.<img class="idizi2" alt="''" src="img/idizijel.png"></h3>
+              <p class="szerzo">Hamvas Béla</p></li>
+	<li class="slidem "><h3 class="idezet">
+		<img class="idizi" alt="''" src="img/idizijel.png">Minden bor (...) társas, és igazi lényét akkor tárja fel, ha közösségben isszák.<img class="idizi2" alt="''" src="img/idizijel.png"></h3>
+              <p class="szerzo">Hamvas Béla</p></li>
+	<li class="slidem"><h3 class="idezet"><img class="idizi" alt="''" src="img/idizijel.png">
+		In vino veritas.<img class="idizi2" alt="''" src="img/idizijel.png"></h3>
+              <p class="szerzo"></p></li>
+</ul>
+	<div  id="rolunk" class="menufelirat"><br><br><br><br><br><br><br><br><br><br><h2 class="menufeliratH2 text-uppercase">Rólunk</h2></div>
+	  </div>
+
+    <!-- Page Content -->
+    <section class="rolunk">
+	
+	  <div class="container">
+        
+        <p class="rolunki">Nagyot álmodtunk!<br><br>
+
+Egy évvel ez előtt egy borbár megnyitásán álmodoztunk, kifinomult borokkal, sonkákkal, sajtokkal, olívával, finom falatokkal. Azonban a sors kegyelméből mindezt továbbgondoltuk, és egy csodás, mediterrán ízekre épülő, csupa finomságot tartalmazó, elbűvölő, Delicatus boltot nyitunk.<br><br>
+
+Szépen felújított, modern, de egyben hagyomány tisztelő környezetben várjuk kedves vásárlóinkat hétfő kivételével minden nap.  Bor és csemege boltunk a falu szívében, a templom és a busz végállomás közvetlen közelében nyílik, a régi Cédrus Patika helyén.<br><br>
+
+A Livinum Delicatus Borpatika egy olyan hangulatos hely, ahova egyrészt a helyiek, másrészt az idelátogatók is betérhetnek ha finomságokra vágynak. Nálunk a minőségi borok mellett egyéb finom italok, tradicionális sonkák, sajtok és egyéb csemegék várják a kedves vevőket. Amíg a sonkát szeleteljük, a sajtot csomagoljuk, igyál nálunk egy kiváló minőségű kávét, vagy válogass a finomságainkat tartalmazó dobozainkból.<br><br>
+
+Borválasztékunk magját azt olasz borok képviselik, a Prosecco-tól a legfinomabb Primitivo-ig, mellette a kaliforniai, spanyol és természetesen a kárpát medence borai is megtalálhatóak. Champagne választékunk pedig verhetetlen lesz, hiszen a modern társasági élet alapját ez képezi. Borhűtőnk tartalma kiapadhatatlan lesz!<br><br>
+
+Hétvégi bulit tartasz? Vagy csak egy könnyű vacsorára vágysz? Keress minket, mi pillanatok alatt összeállítunk egy csomagot a legfinomabb falatokból és italokból, és akár házhoz is szállítjuk. Mindez csak egy telefonhívásba kerül, garantáljuk, nem fogsz csalódni.<br><br>
+
+A napi híreket, akciókat, új termékekről szóló információkat a #Livinum Borpatika - Wine Bistro&Shop Facebook oldalon találjátok meg.<br><br>
+ 
+Várunk Benneteket:<br>
+a Livinum Delicatus Borpatika Csapata</p>
+      </div>
+    </section>
+	  
+	  <div class="itallapPos">
+<!--parallax 1 -->
+<section  id="itallap" class="bg-1 text-center">
+</section>			  
+		  <div class="arnyek"></div>
+<div class="fejleckep3"><div class="menufelirat"><br><br><h2 class="menufeliratH2">ITALLAP</h2></div></div>
+
+<!--/parallax 1-->
+<div class="container">
+    <hr class="">
+    <div class="row">
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2011</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2012</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2013</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2014</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		
+	</div>
+    <!--/row-->
+    
+</div>
+<!--/container-->
+<div class="divider"></div>
+		  
+<section class="bg-2"  id="etlap">
+</section><div class="arnyek"></div>
+<div class="fejleckep3"><div class="menufelirat"><br><br><h2 class="menufeliratH2">ÉTLAP</h2></div></div>
+		  
+<div class="divider"></div>
+<div class="container" >
+    <div class="row">
+       
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+		<div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                     <h3 class="text-center ital">Sauvignon blanc.</h3>
+                </div>
+                <div class="panel-body text-center tipus">száraz  |  Etyek-Buda  |  2017</div>
+            </div>
+        </div>
+		<!--Kövi Ital-->
+    </div>
+</div>
+<!--/container-->
+<div class="divider"></div>
+<section class="bg-3"  id="galeria">
+</section><div class="arnyek"></div>
+<div class="fejleckep3"><div class="menufelirat"><br><br><h2 class="menufeliratH2 text-uppercase">Galéria</h2></div></div>
+		  
+
+        <section class="gallery-block grid-gallery">
+            <div class="container">
+                <div class="heading">
+                </div>
+                <div class="row">
+					
+
+					<?php include_once('resources/UberGallery.php'); $gallery = UberGallery::init()->createGallery('gallery-images'); ?>
+					
+    <!--                <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image1.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image1.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image2.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image2.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image3.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image3.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image4.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image4.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image5.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image5.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image6.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image6.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image7.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image7.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image8.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image8.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <a class="lightbox" href="img/image9.jpg">
+                            <img class="img-fluid image scale-on-hover asddImage" alt="img" src="img/image9.jpg">
+                        </a>
+                    </div>-->
+                </div>
+            </div>
+        </section><br><br>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+        <script>
+            baguetteBox.run('.grid-gallery', { animation: 'slideIn'});
+        </script>
+<!--/container-->
+<!--<div class="divider"></div>-->
+<!--parallax 2 -->
+<section class="bg-4 text-center">
+</section>
+		  <div class="arnyek" id="kapcsolat"></div>
+<div class="fejleckep3"><div class="menufelirat"><br><br><h2 class="menufeliratH2">KAPCSOLAT</h2></div></div>
+		 <div class="text-center rolunki"><h5 class="text-uppercase ego ital">livinum borpatika</h5>
+		  2094 Nagykovácsi,<br>Virágos sétány 78.<br>Tel.: +3600/123-45-67</div>  
+<!--/parallax 2-->
+	  </div>
+	  
+    <!-- Footer -->
+    <footer class="py-5">
+      <div class="container">
+        <p class="m-0 text-center">&copy; Livinum Borpatika 2018</p>
+      </div>
+      <!-- /.container-->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+	  <script src="vendor/scrolling-nav.js"></script>
+<script>
+	  /**
+ * Author: Heather Corey
+ * jQuery Simple Parallax Plugin
+ *
+ */
+$( '.ez a' ).on( 'click', function () {
+$( '.ez' ).find( 'active' ).removeClass( 'active' );
+$( this ).parent( 'ez' ).addClass( 'active' );
+});
+	
+(function($) {
+ 
+    $.fn.parallax = function(options) {
+ 
+        var windowHeight = $(window).height();
+ 
+        // Establish default settings
+        var settings = $.extend({
+            speed        : 0.15
+        }, options);
+ 
+        // Iterate over each object in collection
+        return this.each( function() {
+ 
+        	// Save a reference to the element
+        	var $this = $(this);
+ 
+        	// Set up Scroll Handler
+        	$(document).scroll(function(){
+ 
+    		        var scrollTop = $(window).scrollTop();
+            	        var offset = $this.offset().top;
+            	        var height = $this.outerHeight();
+ 
+    		// Check if above or below viewport
+			if (offset + height <= scrollTop || offset >= scrollTop + windowHeight) {
+				return;
+			}
+ 			if($(window).width()<450){console.log('legKisebb' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.2)-180;}
+ else if($(window).width()<575 && $(window).width()>449){console.log('Kicsi' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.2)-250;}
+ else if($(window).width()<700 && $(window).width()>574){console.log('Kicsit nagyobb' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.2)-220;}
+ else if($(window).width()<900 && $(window).width()>699){console.log('majkdnem közepes' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.2)-40;}/*Itt nem tetszik*/
+ else if($(window).width()<1100 && $(window).width()>899){console.log('közepes' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.15)-100;}
+ else if($(window).width()<1300 && $(window).width()>1099){console.log('meretes' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.2)-130;}
+ else if($(window).width()<1600 && $(window).width()>1299){console.log('nagy' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * 0.4)-320;}
+ else if($(window).width()>1599 && $(window).width()<1799){console.log('Extra nagy' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * settings.speed)-300;}
+ else if($(window).width()>1800){console.log('Extra nagy_2 ' + $(window).width());
+			var yBgPosition = Math.round((offset - scrollTop) * settings.speed)-600;}
+
+				// Apply the Y Background Position to Set the Parallax Effect
+    			$this.css('background-position', 'center ' +  yBgPosition + 'px');
+                
+        	});
+        });
+    }
+}(jQuery));
+
+
+$('.bg-1, .bg-2, .bg-4, .bg-3').parallax({
+	speed :	0.35
+});
+
+
+	
+
+	
+	/**másik carousel*/
+var slides = document.querySelectorAll('#slides .slidem');
+var currentSlide = 0;
+var slideInterval = setInterval(nextSlide,3000);
+
+function nextSlide(){
+	slides[currentSlide].className = 'slidem';
+	currentSlide = (currentSlide+1)%slides.length;
+	slides[currentSlide].className = 'slidem showing';
+}
+	  </script>
+  </body>
+
+</html>
